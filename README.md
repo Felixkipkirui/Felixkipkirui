@@ -1,3 +1,5 @@
+
+![logo](https://github.com/Felixkipkirui/FelixKLangat/blob/38413c1b705a804136ebde658a7cc9b07a021eb7/Blue%20%26%20Teal%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Felix Kipkirui</h1>
 <h3 align="center">A Passionate IT Student From Maseno University</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
