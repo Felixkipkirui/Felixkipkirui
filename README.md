@@ -1,5 +1,7 @@
 
 ![logo](https://github.com/Felixkipkirui/Felixkipkirui/blob/main/White%20Red%20Christmas%20Sale%20Facebook%20Fundraiser%20Cover%20Photo_20240406_050512_0000.png)
+
+![logo](https://github.com/Felixkipkirui/Felixkipkirui/blob/main/White%20Red%20Christmas%20Sale%20Facebook%20Fundraiser%20Cover%20Photo_20240406_050512_0000.png)
 <h1 align="center">Hi 👋, I'm Felix Kipkirui Langat</h1>
 <h3 align="center">A Software Developer and an IT Student at Maseno University, Kenya</h3>
 
